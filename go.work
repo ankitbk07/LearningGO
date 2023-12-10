@@ -1,0 +1,21 @@
+go 1.21.4
+
+use (
+	./GO/04mytime
+	./GO/05Pointers
+	./GO/06Array
+	./GO/07slice
+	./GO/08map
+	./GO/09Struct
+	./GO/10ifelseswich
+	./GO/11LOOPS
+	./GO/12functions
+	./GO/13Methods
+	./GO/14Interface
+	./GO/15Defer
+	./GO/16Files
+	./GO/17webrequest
+	./GO/18Url
+	./GO/19webserver
+	./GO/20webreqverb
+)
